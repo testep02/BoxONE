@@ -1,0 +1,10 @@
+c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.dll
+c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.pdb
+c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.csprojResolveAssemblyReference.cache
+c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.dll
+c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.pdb
+C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.dll.config
+C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.xml
