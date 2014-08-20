@@ -8,3 +8,13 @@ C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\D
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.xml
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.dll.config
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\BoxONE.Domain.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.Domain\obj\Debug\BoxONE.Domain.pdb

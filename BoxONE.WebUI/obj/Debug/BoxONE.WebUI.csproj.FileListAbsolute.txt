@@ -37,3 +37,42 @@ c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.WebUI\obj\De
 c:\users\travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.WebUI\obj\Debug\BoxONE.WebUI.pdb
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\BoxONE.WebUI.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\BoxONE.WebUI.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\BoxONE.Domain.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\EntityFramework.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Moq.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Ninject.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Http.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Providers.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Razor.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\WebGrease.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\BoxONE.Domain.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\EntityFramework.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Moq.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Ninject.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Http.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.Razor.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\obj\Debug\BoxONE.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\obj\Debug\BoxONE.WebUI.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.WebUI\obj\Debug\BoxONE.WebUI.pdb

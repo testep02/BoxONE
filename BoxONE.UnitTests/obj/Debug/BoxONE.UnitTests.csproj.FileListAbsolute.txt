@@ -25,3 +25,30 @@ C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.UnitTests\bi
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.dll
 C:\Users\Travis\documents\visual studio 2012\Projects\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.UnitTests.dll.config
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.UnitTests.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.UnitTests.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.Domain.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.WebUI.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Moq.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Ninject.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Web.Http.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.Domain.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\BoxONE.WebUI.pdb
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Moq.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Ninject.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Web.Http.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.dll
+C:\Users\Travis\Documents\GitHub\BoxONE\BoxONE.UnitTests\obj\Debug\BoxONE.UnitTests.pdb
